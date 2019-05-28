@@ -1,0 +1,18 @@
+{
+  "name": "graphql-vue-photo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.5.0",
+    "cloudinary": "^1.14.0",
+    "dotenv": "^8.0.0",
+    "graphql": "^14.3.0"
+  }
+}
